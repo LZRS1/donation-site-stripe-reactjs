@@ -1,0 +1,20 @@
+{
+  "short_name": "Donation Site",
+  "name": "L4ZARUS Donation Site",
+  "icons": [
+    {
+      "src": "test.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo-1.png",
+      "type": "image/png",
+      "sizes": "944x1064"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
